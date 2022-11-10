@@ -2,8 +2,8 @@
  
             👋  Hi, I'm Enrique Arés, for almost 10 years I've been logistics world, now 👇
   
- - 🌱 after having attended a bootcamp, I am starting my career as a full stack developer
+            🌱 after having attended a bootcamp, I am starting my career as a full stack developer
   
- - 🤔 I like tech, sports & family
+            🤔 I like tech, sports & family
   
- - 📫 How to reach me: j.enriquealorenzo@gmail.com 
+            📫 How to reach me: j.enriquealorenzo@gmail.com 
