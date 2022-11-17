@@ -4,6 +4,6 @@
   
             🌱 after having attended a bootcamp, I am starting my career as a full stack developer
   
-            🤔 I like tech, sports & family
+            🤔 I like tech, sports & family // elena
   
             📫 How to reach me: j.enriquealorenzo@gmail.com 
